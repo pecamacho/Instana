@@ -24,8 +24,8 @@ module.exports = {
         mediumAccount: 'carbondesign',
         repository: {
           baseUrl:
-            'https://github.com/pecamacho/Instana',
-          subDirectory: '/',
+            'https://pecamacho.github.io/Instana/',
+          subDirectory: '/src/pages',
         },
       },
     },
